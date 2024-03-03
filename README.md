@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ipy06
+- 👋 Hi, I’m Zeke
 - 👀 I’m interested in App and Web development
 - 🌱 I program in C, C++, Java and Python
 - 💞️ I’m looking to collaborate on App Development Projects
