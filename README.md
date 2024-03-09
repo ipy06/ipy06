@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zeke
+- 👋 Hi, I’m Hezekiah
 - 👀 I’m interested in App and Web development
 - 🌱 I program in C, C++, Java and Python
 - 💞️ I’m looking to collaborate on App Development Projects
