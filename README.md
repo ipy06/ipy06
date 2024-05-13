@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ipinoluwa Hezekiah Shobayo</h1>
+<h1 align="center">Hi 👋, I'm Hezekiah(Zeke) </h1>
 <h3 align="center">A 2nd-year Software Engineering Student at Uottawa</h3>
 
 
