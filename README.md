@@ -4,6 +4,8 @@
 
 <!--<img align = "right" alt = "coding" width = "400" src="https://i.ibb.co/dQ3rmS9/text.gif">-->
 <img align = "right" alt = "coding" width = "400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipy060&label=Profile%26views&color=0e75b6&style=flat" alt="ipy06" /> </p>
 
 - 🔭 I’m currently working on [Javascript Coding Exercises](https://github.com/ipy06/javascriptCodingExercises/tree/main)
@@ -33,6 +35,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipy06&theme=transparent&hide_progress=false&layout=compact&langs_count=6)
 
+<a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/tall/66490601bc68b74d9bc43d49?variant=dark" alt="roadmap.sh"/></a>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipy06&show_icons=true&locale=en&theme=transparent" alt="ipy06" /></p>
 
-<a href="https://roadmap.sh"><img align="left" src="https://roadmap.sh/card/wide/66490601bc68b74d9bc43d49?variant=dark" alt="roadmap.sh"/></a>
+
+
