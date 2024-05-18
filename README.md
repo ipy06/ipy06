@@ -37,7 +37,7 @@
 
 <a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/tall/66490601bc68b74d9bc43d49?variant=dark" alt="roadmap.sh"/></a>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipy06&show_icons=true&locale=en&theme=transparent" alt="ipy06" /></p>
+ub-readme-stats.vercel.app/api?username=ipy06&show_icons=true&locale=en&theme=transparent" alt="ipy06" /></p>
 
 
 
