@@ -32,5 +32,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipy06&theme=transparent&hide_progress=false&layout=compact&langs_count=6)
+<a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/wide/66490601bc68b74d9bc43d49?variant=dark" alt="roadmap.sh"/></a>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipy06&show_icons=true&locale=en&theme=transparent" alt="ipy06" /></p>
