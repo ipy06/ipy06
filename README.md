@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hezekiah(Zeke) </h1>
-<h3 align="center">A 2nd-year Software Engineering Student at Uottawa</h3>
+<h3 align="center">A Software Engineering Student at Uottawa</h3>
 
 
 <!--<img align = "right" alt = "coding" width = "400" src="https://i.ibb.co/dQ3rmS9/text.gif">-->
