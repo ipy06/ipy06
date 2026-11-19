@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipy060&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="ipy06" /> </p>
 
-- 🔭 I’m currently working on [a project](https://github.com/ipy06/)
+- 🔭 I’m currently working on [a project](https://zekesportfolio.netlify.app/)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Jazz Music**
 
 - 📫 How to reach me **ishob080@uottawa.ca**
 
